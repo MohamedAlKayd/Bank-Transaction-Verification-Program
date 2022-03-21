@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-// Mohamed Yasser Anwar Mahmoud AlKayd
+// Mohamed AlKayd
 // Bank Transaction Verification Program
 
 // - Start of the Program -
